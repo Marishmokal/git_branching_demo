@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	System.out.println("Result is:-"+result);
 	
 	//Another method is multiplication
+	//i m trying to do it
 }
 }
