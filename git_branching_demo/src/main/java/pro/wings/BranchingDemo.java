@@ -7,5 +7,7 @@ public static void main(String[] args) {
 //Done with addition part
 	int result=i+j;
 	System.out.println("Result is:-"+result);
+	
+	//Another method is multiplication
 }
 }
