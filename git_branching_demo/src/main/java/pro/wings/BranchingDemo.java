@@ -6,8 +6,8 @@ public static void main(String[] args) {
 	int j=12;
 //Done with addition part
 	//Tips to Become a Good Java Developer
-10 Essential Tools for Java Developers
-Top Skills to Become a Full-Stack Java Developer
+//10 Essential Tools for Java Developers
+//Top Skills to Become a Full-Stack Java Developer
 	int result=i+j;
 	System.out.println("Result is:-"+result);
 	
